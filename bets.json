@@ -2,16 +2,58 @@
   "bets": [
     {
       "date": "2026-01-01",
-      "match": "Arsenal vs Chelsea",
-      "tip": "Over 2.5 Goals",
-      "odd": "1.85",
-      "status": "WON"
+      "match": "Charlton Athletic vs Coventry City",
+      "tip": "Coventry City or Draw (X2)",
+      "odd": "--",
+      "status": "PENDING"
     },
     {
       "date": "2026-01-01",
-      "match": "Barcelona vs Sevilla",
-      "tip": "Barcelona Win",
-      "odd": "1.60",
+      "match": "Derby County vs Middlesbrough",
+      "tip": "Under 3.5 Goals",
+      "odd": "--",
+      "status": "PENDING"
+    }
+    {
+     "date": "2026-01-01",
+      "match": "Ipswich Town vs Oxford United",
+      "tip": "Ipswich Town – WIN (1)",
+      "odd": "--",
+      "status": "PENDING"
+    }
+    {
+     "date": "2026-01-01",
+      "match": "Southampton FC vs Millwall FC",
+      "tip": "Over 1.5 Goals",
+      "odd": "--",
+      "status": "PENDING"
+    }
+     {
+     "date": "2026-01-01",
+      "match": "Crystal Palace vs Fulham",
+      "tip": "BTTS - YES",
+      "odd": "--",
+      "status": "PENDING"
+    }
+    {
+     "date": "2026-01-01",
+      "match": "Liverpool vs Leeds United",
+      "tip": "Over 1.5 Goals",
+      "odd": "--",
+      "status": "PENDING"
+    }
+    {
+     "date": "2026-01-01",
+      "match": "Sheffield United vs Leicester City",
+      "tip": "Over 1.5 Goals",
+      "odd": "--",
+      "status": "PENDING"
+    }
+    {
+     "date": "2026-01-01",
+      "match": "Brentford vs Tottenham",
+      "tip": "BTTS - YES",
+      "odd": "--",
       "status": "PENDING"
     }
   ]
